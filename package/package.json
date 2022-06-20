@@ -1,7 +1,7 @@
 {
-  "name": "crypto-archive",
+  "name": "b2uploader",
   "version": "0.0.1",
-  "description": "Simple way to group and encrypt files in a browser",
+  "description": "Multi-/singlepart file uploader for B2",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Inosida-se/crypto-archive.git"
+    "url": "git+https://github.com/Inosida-se/b2uploader.git"
   },
   "author": "Inosida",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Inosida-se/crypto-archive/issues"
+    "url": "https://github.com/Inosida-se/b2uploader/issues"
   },
-  "homepage": "https://github.com/Inosida-se/crypto-archive#readme",
+  "homepage": "https://github.com/Inosida-se/b2uploader#readme",
   "devDependencies": {
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.24.4",
@@ -29,6 +29,5 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "base64-js": "^1.5.1"
   }
 }

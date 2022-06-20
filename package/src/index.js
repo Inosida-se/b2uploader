@@ -1,3 +1,3 @@
-import CryptoArchiver from "./helpers/cryptoArchiver.js";
+import Uploader from "./helpers/b2Uploader.js";
 
-export default CryptoArchiver;
+export default Uploader;
